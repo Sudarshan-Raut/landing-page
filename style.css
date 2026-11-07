@@ -30,3 +30,23 @@ nav{
     border-radius: 8px;
 
 }
+
+#features{
+    display: flex;
+    gap: 20px;
+    padding: 40px 24px;
+}
+
+.card{
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 12px;
+}
+
+footer{
+    text-align: center;
+    padding: 24px;
+    background-color: #222222;
+    color: white;
+}
